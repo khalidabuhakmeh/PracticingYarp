@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/khalidabuhakmeh/RiderProjects/PracitcingYarp/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/Users/khalidabuhakmeh/RiderProjects/PracitcingYarp/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/khalidabuhakmeh/RiderProjects/PracitcingYarp/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/Users/khalidabuhakmeh/RiderProjects/PracitcingYarp/Api/Api.csproj",
+        "packagesPath": "/Users/khalidabuhakmeh/.nuget/packages/",
+        "outputPath": "/Users/khalidabuhakmeh/RiderProjects/PracitcingYarp/Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/khalidabuhakmeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dnceng.pkgs.visualstudio.com/public/_packaging/dotnet6/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-preview.3.22179.4/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

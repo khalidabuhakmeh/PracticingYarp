@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLc9z/yHZJHCSgWWvxj4N+ENNy+SD+0/KRbeO2S6izU9NQq6nF7PdRUlC+1HB6kspJPcmH8liB6YInlZiveZUw==",
+  "success": true,
+  "projectFilePath": "/Users/khalidabuhakmeh/RiderProjects/PracitcingYarp/Host/Host.csproj",
+  "expectedPackageFiles": [
+    "/Users/khalidabuhakmeh/.nuget/packages/duende.bff/1.2.1/duende.bff.1.2.1.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/duende.bff.yarp/1.2.1/duende.bff.yarp.1.2.1.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/identitymodel.aspnetcore/4.2.0/identitymodel.aspnetcore.4.2.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/6.0.0/microsoft.aspnetcore.authentication.openidconnect.6.0.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/khalidabuhakmeh/.nuget/packages/yarp.reverseproxy/1.1.0/yarp.reverseproxy.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
