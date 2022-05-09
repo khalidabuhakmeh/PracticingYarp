@@ -14,7 +14,7 @@ builder
             Match = new() { Path = "/api/{**catch-all}" },
             Transforms = new[]
             {
-                new Dictionary<string, string>
+                new Transformation
                 {
                     { "PathRemovePrefix", "/api" }
                 }
@@ -51,6 +51,13 @@ app.Run();
 internal sealed class Destinations : Dictionary<string, DestinationConfig>
 {
     public Destinations() :base(StringComparer.OrdinalIgnoreCase)
+    {
+    }
+}
+
+internal sealed class Transformation : Dictionary<string, string>
+{
+    public Transformation() :base(StringComparer.OrdinalIgnoreCase)
     {
     }
 }
