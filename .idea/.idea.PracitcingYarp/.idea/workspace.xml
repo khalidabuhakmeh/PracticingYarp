@@ -5,12 +5,16 @@
     <projectFile profileName="IIS Express">PracitcingYarp/PracitcingYarp.csproj</projectFile>
     <projectFile profileName="Api">Api/Api.csproj</projectFile>
     <projectFile profileName="IIS Express">Api/Api.csproj</projectFile>
+    <projectFile profileName="IIS Express">Host/Host.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff0df845-97e9-4436-a898-3a1bb889448c" name="Changes" comment="" />
+    <list default="true" id="ff0df845-97e9-4436-a898-3a1bb889448c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Host/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Host/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Host/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Host/appsettings.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,11 +23,15 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2a773e8d26494eedb36bd80be2768bcb4dba8/8c/14e1bced/ReverseProxyServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/7bdf2273c412b57825bbbf28ab90af80498ef3b8e2aa257e292582fb95c32a80/ServiceCollectionContainerBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Host/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Host/Properties/launchSettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Host/appsettings.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28wETH3iaftjYobxhvh4RKUGLh1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +45,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -106,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652119254326</updated>
-      <workItem from="1652119259255" duration="5830000" />
+      <workItem from="1652119259255" duration="6328000" />
     </task>
     <servers />
   </component>

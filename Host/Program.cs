@@ -34,7 +34,7 @@ builder
             ClusterId = "api",
             Destinations = new Destinations
             {
-                { "destination_api", new() { Address = "https://localhost:7210" } }
+                { "destination_api", new() { Address = builder.Configuration["Api"]! } }
             }
         }
     });
